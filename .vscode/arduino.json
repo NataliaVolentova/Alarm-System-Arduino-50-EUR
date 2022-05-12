@@ -1,0 +1,6 @@
+{
+    "port": "COM5",
+    "board": "arduino:avr:uno",
+    "programmer": "arduino:arduinoisp",
+    "sketch": "28092021_StateMachine.ino"
+}
